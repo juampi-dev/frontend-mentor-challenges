@@ -15,7 +15,7 @@ The goal of this repository is to show my progress in web development and to con
 - Typescript (in some projects)
 
 ## **Project List**
-1. [01-qr-code](https://github.com/juan-ps/frontend-mentor-challenges/tree/main/qr-project/01-qr-code) - Frontend Mentor Challenge
+1. [01-qr-code](https://github.com/juan-ps/frontend-mentor-challenges/tree/main/01-qr-code) - Frontend Mentor Challenge
 
 The projects will be updated and new ones will be added as they are completed. Each project has its own directory in the repository, and you can explore each one to see specific details about the project in question.
 
@@ -41,7 +41,7 @@ El objetivo de este repositorio es mostrar mi progreso en el desarrollo web y se
 - Typescript (en algunos proyectos)
 
 ## **Lista de proyectos**
-1. 01-qr-code - Challenge de Frontend Mentor
+1. [01-qr-code](https://github.com/juan-ps/frontend-mentor-challenges/tree/main/01-qr-code) - Challenge de Frontend Mentor
 
 Los proyectos se irán actualizando y agregando nuevos a medida que se vayan completando. Cada proyecto tiene su propio directorio en el repositorio, y puedes explorar cada uno de ellos para ver detalles específicos sobre el proyecto en cuestión.
 
