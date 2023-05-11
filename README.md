@@ -12,10 +12,12 @@ The goal of this repository is to show my progress in web development and to con
 - Next.js
 - Tailwind CSS
 - JavaScript
-- Typescript (in some projects)
+- Typescript
 
 ## **Project List**
 1. [01-qr-code](https://github.com/juan-ps/frontend-mentor-challenges/tree/main/01-qr-code) - Frontend Mentor Challenge
+2. [02-results-summary](https://github.com/juan-ps/frontend-mentor-challenges/tree/main/02-results-summary) - Frontend Mentor Challenge
+3. [03-interactive-rating-component](https://github.com/juan-ps/frontend-mentor-challenges/tree/main/03-interactive-rating-component) - Frontend Mentor Challenge
 
 The projects will be updated and new ones will be added as they are completed. Each project has its own directory in the repository, and you can explore each one to see specific details about the project in question.
 
@@ -38,10 +40,12 @@ El objetivo de este repositorio es mostrar mi progreso en el desarrollo web y se
 - Next.js
 - Tailwind CSS
 - JavaScript
-- Typescript (en algunos proyectos)
+- Typescript
 
 ## **Lista de proyectos**
 1. [01-qr-code](https://github.com/juan-ps/frontend-mentor-challenges/tree/main/01-qr-code) - Challenge de Frontend Mentor
+2. [02-results-summary](https://github.com/juan-ps/frontend-mentor-challenges/tree/main/02-results-summary) - Challenge de Frontend Mentor
+3. [03-interactive-rating-component](https://github.com/juan-ps/frontend-mentor-challenges/tree/main/03-interactive-rating-component) - Challenge de Frontend Mentor
 
 Los proyectos se irán actualizando y agregando nuevos a medida que se vayan completando. Cada proyecto tiene su propio directorio en el repositorio, y puedes explorar cada uno de ellos para ver detalles específicos sobre el proyecto en cuestión.
 
