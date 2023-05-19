@@ -14,6 +14,9 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 - See the number rating selected on the "Thank you" card
 
+## Deployed on Vercel
+Link: https://interactive-rating-component-jps.vercel.app/
+
 ## My process
 
 ### Built with
