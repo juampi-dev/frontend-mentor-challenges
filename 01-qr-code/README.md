@@ -5,7 +5,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with `create-next-app` and Tailwind CSS.
 
 ## Deployed on Vercel
-Link: [link goes here]
+Link: (Coming soon!)
 
 The project is the beginner-level challenge from [Frontend Mentor](https://www.frontendmentor.io/).
 
@@ -24,7 +24,7 @@ Once the layout was done, along with styles and making the website responsive, I
 Este es un proyecto de [Next.js] creado con [`create-next-app`] y Tailwind CSS.
 
 ## Desplegado en Vercel
-Link: [link goes here]
+Link: (Muy pronto!)
 
 El proyecto es el desafío de nivel inicial de [Frontend Mentor](https://www.frontendmentor.io/)
 
