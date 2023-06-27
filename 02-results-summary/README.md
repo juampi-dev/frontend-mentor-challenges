@@ -11,6 +11,9 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
+## Deployed on Vercel
+Link: https://results-summary-juan-ps.vercel.app/
+
 ## My process
 
 ### Built with
@@ -21,10 +24,6 @@ Users should be able to:
 - [Next.js](https://nextjs.org/) - React framework
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
 - [Tailwind CSS Animated](https://www.tailwindcss-animated.com/) - For custom animations
-
-### What I learned
-
-** Coming soon... **
 
 ## Author
 
