@@ -2,11 +2,11 @@
 
 # __Frontend Mentor Projects Repository__
 
-This repository is a collection of projects completed as part of [Frontend Mentor's](https://www.frontendmentor.io/) challenges and some other similar web challenges. The projects have been uploaded in order as they were completed, from the oldest to the most recent.
+This repository is a collection of projects completed as part of [Frontend Mentor's](https://www.frontendmentor.io/) and similar web challenges. The projects have been uploaded in order as they were completed, from the oldest to the most recent.
 
-The projects are primarily developed using Next.js and Tailwind CSS technologies, and will be alternated between JavaScript and Typescript as I become more comfortable with the transition to Typescript (which is a new language for me).
+The projects are primarily developed using Next.js and Tailwind CSS technologies. They will be alternated between JavaScript and Typescript as I become more comfortable with the transition to Typescript (which is a new language for me).
 
-The goal of this repository is to show my progress in web development and to continue learning and improving my skills. Feel free to explore the projects, clone them, and make any modifications or improvements you see fit.
+This repository aims to show my progress in web development and continue learning and improving my skills. Feel free to explore the projects, clone them, and make any modifications or improvements you see fit.
 
 ## **Technologies used**
 - Next.js
