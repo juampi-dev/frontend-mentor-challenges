@@ -12,7 +12,8 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ## Deployed on Vercel
-Click <a href="https://results-summary-juan-ps.vercel.app/" target="_blank">HERE</a> to see this component.
+
+Click [HERE](https://results-summary-juan-ps.vercel.app/) to see this component.
 
 ## My process
 
